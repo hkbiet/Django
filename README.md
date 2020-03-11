@@ -1,2 +1,2 @@
 # Django
-Experiments with Django .
+Experiments with Django ...
